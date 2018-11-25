@@ -2,3 +2,4 @@ add a txt
 add a new sentence
 I love study.
 I like coffee.
+Creating a new branch is quick.
